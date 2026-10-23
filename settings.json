@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "FuramViataSMP.aternos.me",
+    "port": 51085,
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
@@ -28,12 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "repeat-delay": 500
     },
     "chat-log": true,
     "auto-reconnect": true,
